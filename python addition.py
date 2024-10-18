@@ -1,3 +1,11 @@
+'''
+Author:Laura Rose Rubin
+Date:18-10-2024
+Description:program that demonstrates the usage of arithmetic, comparison, and logical operators. Perform a few operations and print the results.
+'''
+
+
+
 number=int(input("enter a number"))
 number1=int(input("enter a number"))
 print("sum=",number+number1,",Division",number/number1)
