@@ -1,7 +1,7 @@
 '''
 Author:Laura Rose Rubin
 Date:19-10-2024
-Description:Write a Python program that performs the following tasks:
+Description:Simple desktop calculator using Python. Only the five basic arithmetic operators
 '''
 
 
