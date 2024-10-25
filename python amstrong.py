@@ -1,6 +1,7 @@
 '''
 Author:Laura Rose Rubin
 Date:25-10-2024
+Description:python program to find whether a number is armstrong or not
 '''
 
 
